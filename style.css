@@ -32,3 +32,9 @@ button {
     color: white;
     border-radius: .2rem;
 }
+
+.box_3 {
+    width: 500px;
+    height: 500px;
+    background: #000;
+}
