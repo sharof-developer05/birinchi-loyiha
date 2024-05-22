@@ -25,3 +25,10 @@ ul {
     height: 100vh;
     background-color: chocolate;
 }
+
+button {
+    padding: 1rem 2rem;
+    background-color: brown;
+    color: white;
+    border-radius: .2rem;
+}
